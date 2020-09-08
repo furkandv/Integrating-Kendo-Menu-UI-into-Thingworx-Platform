@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>    
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="7.0.0" name="dvmKendoMenu" packageVersion="1.3.58" vendor=""> 
+        </ExtensionPackage>
+    </ExtensionPackages>
+    <Widgets>
+        <Widget name="dvmkendomenu">
+            <UIResources>
+                <FileResource description="" file="dvmkendomenu.ide.js" isDevelopment="true" isRuntime="false" type="JS"/>
+                <FileResource description="" file="dvmkendomenu.ide.css" isDevelopment="true" isRuntime="false" type="CSS"/>
+                <FileResource description="" file="dvmkendomenu.runtime.js" isDevelopment="false" isRuntime="true" type="JS"/>
+                <FileResource description="" file="dvmkendomenu.runtime.css" isDevelopment="false" isRuntime="true" type="CSS"/>
+            </UIResources>
+        </Widget>
+    </Widgets>
+</Entities>
+<!-- 19 güncel -->
